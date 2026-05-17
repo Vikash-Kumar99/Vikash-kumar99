@@ -7,7 +7,7 @@
 <br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-singh-622968219/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghvandrasingh111@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vk0371968@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=Vikaskumar75&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
